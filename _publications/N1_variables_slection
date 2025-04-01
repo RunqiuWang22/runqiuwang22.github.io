@@ -11,3 +11,4 @@ citation: "Wang R., Dai R., Huang Y., Neuhouser M., Lampe J., Raftery D., Tabung
 ---
 
 This work proposes a novel FDR-controlling method for variable selection in noisy, high-dimensional datasets. The methodology is applied to metabolomics data to identify cancer-related metabolites associated with breast and colorectal cancer, demonstrating robust power and precision under noisy conditions. The findings provide practical tools for biomarker discovery in clinical research.
+📄 [View Poster (PDF)](/assets/files/A1_Journal_of_Data_Science.pdf)
