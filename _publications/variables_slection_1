@@ -1,0 +1,13 @@
+---
+title: "Variable Selection with FDR Control for Noisy Data – An Application to Screening Metabolites that Are Associated with Breast and Colorectal Cancer"
+collection: publications
+category: preprint
+permalink: /publication/2023-fdr-metabolites
+excerpt: "This paper presents a new method for variable selection with FDR control in high-dimensional, noisy data, applied to identify metabolites associated with breast and colorectal cancer."
+date: 2023-10-10
+venue: "arXiv preprint"
+paperurl: "https://arxiv.org/pdf/2310.06696"
+citation: "Wang R., Dai R., Huang Y., Neuhouser M., Lampe J., Raftery D., Tabung F., & Zheng C. (2023). \"Variable Selection with FDR Control for Noisy Data – An Application to Screening Metabolites that Are Associated with Breast and Colorectal Cancer.\" <i>arXiv preprint</i>, arXiv:2310.06696."
+---
+
+This work proposes a novel FDR-controlling method for variable selection in noisy, high-dimensional datasets. The methodology is applied to metabolomics data to identify cancer-related metabolites associated with breast and colorectal cancer, demonstrating robust power and precision under noisy conditions. The findings provide practical tools for biomarker discovery in clinical research.
