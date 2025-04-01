@@ -4,7 +4,7 @@ collection: publications
 category: published
 permalink: /publication/2023-loneliness-cvd
 excerpt: "This study investigates how changes in loneliness status over time affect the risk of cardiovascular disease among middle-aged and older adults."
-date: 2023-10-01
+date: 2024-03-01
 venue: "Nutrition, Metabolism and Cardiovascular Diseases"
 paperurl: "https://doi.org/10.1016/j.numecd.2023.10.024"
 citation: "Lu Y., Wang R., Norman J., & Yu P. (2023). \"Loneliness Status Transitions and Risk of Cardiovascular Disease Among Middle-Aged and Older Adults.\" <i>Nutrition, Metabolism and Cardiovascular Diseases</i>."
