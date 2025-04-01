@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Machine Learning Models Decoding the Association Between Urinary Stone Diseases and Metabolic Urinary Profiles"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: published
+permalink: /publication/2023-urinary-stone-ml
+excerpt: "This study applies machine learning models to analyze metabolic urinary profiles and their association with urinary stone diseases, identifying predictive biomarkers and complex metabolic patterns."
+date: 2023-12-01
+venue: "Metabolites, 14(12), 674"
+paperurl: "https://www.mdpi.com/2218-1989/14/12/674"
+citation: "Ma L., Qiao Y., Wang R., Chen H., Liu G., Xiao H., & Dai R. (2023). \"Machine Learning Models Decoding the Association Between Urinary Stone Diseases and Metabolic Urinary Profiles.\" <i>Metabolites</i>, 14(12), 674."
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper explores the use of machine learning models, including deep learning algorithms, to investigate metabolic urinary biomarkers associated with urinary stone diseases. The study demonstrates high classification accuracy and identifies key metabolic predictors, offering new insights into disease risk and personalized diagnostic strategies.
