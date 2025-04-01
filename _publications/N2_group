@@ -1,0 +1,13 @@
+---
+title: "Controlling FDR in Selecting Group-Level Simultaneous Signals from Multiple Data Sources"
+collection: publications
+category: preprint
+permalink: /publication/2023-group-fdr-signals
+excerpt: "This paper proposes a knockoff-based method to control FDR when identifying group-level signals from multiple data sources, applied to large-scale EHR data from the National COVID Cohort Collaborative."
+date: 2023-03-03
+venue: "arXiv preprint"
+paperurl: "https://arxiv.org/pdf/2303.01599"
+citation: "Wang R., Dai R., Dai H., & Zheng C. (2023). \"Controlling FDR in Selecting Group-Level Simultaneous Signals from Multiple Data Sources.\" <i>arXiv preprint</i>, arXiv:2303.01599."
+---
+
+This paper introduces a new algorithm for identifying mutually replicable signals across multiple datasets while ensuring exact control of the false discovery rate (FDR) in finite samples. The method integrates group-level knockoffs with conditional independence testing and is applied to identify clinically relevant variables in the National COVID Cohort Collaborative (N3C) electronic health records. The approach achieves high power and robustness under heterogeneous, noisy conditions.
