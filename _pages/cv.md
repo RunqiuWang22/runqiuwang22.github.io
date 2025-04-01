@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biostatistics, University of Nebraska Medical Center 2025(expected)
+* M.S. in Biostatistics, Georgetown University, 2018
+* B.S. in Statistics, Hong Kong Baptist University, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2021 – Present: Graduate Research Assistant, University of Nebraska Medical Center, Omaha, NE
+  * Served as a statistical consultant, collaborating with scientists across diverse disciplines to design studies, analyze complex data, and develop tailored methodological solutions.
+    
+* May 2024 - August 2024: ORISE Fellow (Intern), U.S. Food and Drug Administration (CDER), Silver Spring, MD
+  * Conducted simulation studies on missing data in Ambulatory Blood Pressure Monitoring (ABPM) studies.
+  * Applied MI, IPW, and AIPW methods to handle missingness under MCAR and MAR assumptions.
+  * Developed statistical recommendations for ABPM study design.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2019 – July 2021: Statistician, Firma Clinical Research, LLC., Hunt Valley, MD
+  * Supported Phase II/III clinical trials, including CRF review, SAP development, and interim analysis.
+  * Contributed to ISS and ISE submissions and designed clinical trials for renal and eye diseases.
+  * Created SDTM/ADaM datasets, TFLs, and Define.xml files for FDA submissions.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2018 – August 2018: Statistician Intern, Johnson & Johnson, Beijing, China
+  * Developed machine learning models to predict adverse events in cardiovascular studies using Python.
+  * Applied random forests, gradient boosting, and visualized results using R Shiny.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: R, SAS, Python, SQL, MATLAB, C++
+* Tools & Platforms: R Shiny, R Markdown, UNIX/HPC, Parallel Computing
+* Certifications: SAS Certified Advanced Programmer, SAS Certified Base Programmer
+
 
 Publications
 ======
@@ -61,4 +61,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member, American Statistical Association (ASA)
+* Member, Eastern North American Region (ENAR)
+* Member, International Biometric Society (IBS)
+
