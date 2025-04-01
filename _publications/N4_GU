@@ -1,0 +1,13 @@
+---
+title: "Stochastic Function Linear Models for Gene-Based Association Analysis of Quantitative Traits in Longitudinal Studies"
+collection: publications
+category: published
+permalink: /publication/2022-stochastic-function-linear
+excerpt: "This paper develops stochastic function linear models for gene-based association analysis, specifically tailored to longitudinal studies of quantitative traits."
+date: 2022-06-01
+venue: "Statistics and Its Interface"
+paperurl: "https://par.nsf.gov/servlets/purl/10369160"
+citation: "Zhang B., Wang S., Mei X., Han Y., Wang R., Fang H., Chiu C., Ding J., Wang Z., Wilson A., Bailey-Wilson J., Xiong M., & Fan R. (2022). \"Stochastic Function Linear Models for Gene-Based Association Analysis of Quantitative Traits in Longitudinal Studies.\" <i>Statistics and Its Interface</i>."
+---
+
+This publication presents a novel statistical framework—stochastic function linear models—to conduct gene-based association analysis in longitudinal studies. The method accommodates complex dependency structures and enhances statistical power in identifying gene-trait associations, particularly for quantitative traits measured over time.
