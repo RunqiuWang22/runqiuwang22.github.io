@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "BIOS 818 BIOSTATISTICAL LINEAR MODELS: METHODS AND APPLICATION"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2024-fall-teaching-1
+venue: "University of Nebraska Medical Center, Department of Biostatistics"
+date: 08/2024 - 12/2024
+location: "Omaha, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I served as a Teaching Assistant for BIOS 818: *Biostatistical Linear Models: Methods and Application* during Fall 2024. My responsibilities included hosting regular office hours, supporting students with coursework and statistical computing in R and SAS, and assisting the instructor with grading assignments and exams. The course focused on the theory and application of linear models in biomedical research.
