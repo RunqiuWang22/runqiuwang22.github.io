@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+A PDF version of my full CV is available [here](/assets/files/Runqiu_Wang_CV (2).pdf) (updated April, 2025).
 
 Education
 ======
