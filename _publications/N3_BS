@@ -1,0 +1,13 @@
+---
+title: "Normalized Iterative Hard Thresholding in High Dimensional Logistic Regression With Metagenomics Data"
+collection: publications
+category: published
+permalink: /publication/2022-niht-logistic-metagenomics
+excerpt: "This study develops and applies the NIHT algorithm for high-dimensional logistic regression, with applications in metagenomics data analysis."
+date: 2022-03-01
+venue: "International Journal of Intelligent Technologies & Applied Statistics, 15(1)"
+paperurl: "https://web.p.ebscohost.com/abstract?site=ehost&scope=site&jrnl=19985010&AN=156928372"
+citation: "Wang R., & Peng X. (2022). \"Normalized Iterative Hard Thresholding in High Dimensional Logistic Regression With Metagenomics Data.\" <i>International Journal of Intelligent Technologies & Applied Statistics</i>, 15(1)."
+---
+
+This paper introduces the application of the Normalized Iterative Hard Thresholding (NIHT) algorithm in the context of high-dimensional logistic regression. Through simulation and application to metagenomics datasets, the method demonstrates strong performance in both variable selection and interpretability compared to other penalization techniques such as Lasso and SCAD.
