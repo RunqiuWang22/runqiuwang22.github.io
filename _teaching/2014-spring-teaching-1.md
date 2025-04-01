@@ -1,7 +1,7 @@
 ---
 title: "BIOS 818 BIOSTATISTICAL LINEAR MODELS: METHODS AND APPLICATION"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2024-fall-teaching-1
 venue: "University of Nebraska Medical Center, Department of Biostatistics"
 date: 08/2024 - 12/2024
