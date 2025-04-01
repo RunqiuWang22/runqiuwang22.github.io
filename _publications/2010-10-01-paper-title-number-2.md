@@ -4,7 +4,7 @@ collection: publications
 category: published
 permalink: /publication/2023-urinary-stone-ml
 excerpt: "This study applies machine learning models to analyze metabolic urinary profiles and their association with urinary stone diseases, identifying predictive biomarkers and complex metabolic patterns."
-date: 2023-12-01
+date: 2024-12-03
 venue: "Metabolites, 14(12), 674"
 paperurl: "https://www.mdpi.com/2218-1989/14/12/674"
 citation: "Ma L., Qiao Y., Wang R., Chen H., Liu G., Xiao H., & Dai R. (2023). \"Machine Learning Models Decoding the Association Between Urinary Stone Diseases and Metabolic Urinary Profiles.\" <i>Metabolites</i>, 14(12), 674."
