@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Welcome to my website!  
-I’m Runqiu (Rachel) Wang, a fourth-year Ph.D. candidate in Biostatistics at the University of Nebraska Medical Center (UNMC), and **currently on the job market** seeking full-time opportunities starting in **=2025**. I am open to roles as a **biostatistician or data scientist in industry**.
+I’m Runqiu (Rachel) Wang, a fourth-year Ph.D. candidate in Biostatistics at the University of Nebraska Medical Center (UNMC), and **currently on the job market** seeking full-time opportunities starting in **2025**. I am open to roles as a **biostatistician or data scientist in industry**.
 
 My research and professional experience sit at the intersection of statistical innovation and biomedical application. I specialize in **multiple testing**, **machine learning**, and **causal inference**, with recent contributions focused on **controlling the false discovery rate (FDR)** in **causal nonlinear models** and **multi-center variable selection**. My doctoral work has been applied in large-scale collaborative projects such as the **National COVID Cohort Collaborative (N3C)** and the **Alzheimer’s Disease Neuroimaging Initiative (ADNI)**.
 
