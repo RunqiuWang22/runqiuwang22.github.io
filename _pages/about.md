@@ -18,7 +18,7 @@ I enjoy translating complex data into meaningful insights, whether I’m applyin
 
 If you're hiring or collaborating in these areas, I’d love to connect!
 
-**📧 Email:** [runqiurachelwang@gmail.com](mailto:Runqiuwangoffer@gmail.com) /[runqiurachelwang@gmail.com](mailto:ruwang@unmc.edu)
+**📧 Email:** [rachelwangoffer@gmail.com](mailto:Runqiuwangoffer@gmail.com) /[Rachel.Wang@childrens.harvard.edu](mailto:Rachel.Wang@childrens.harvard.edu)
 
 
 **🔗 LinkedIn:** [linkedin.com/in/runqiuwang](https://linkedin.com/in/runqiuwang)
