@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Runqiu Wang"
 title_separator          : "-"
-name                     : &name "Runqiu Wang"
-description              : &description "PhD candidate in Biostatistics"
+name                     : &name "Runqiu (Rachel) Wang"
+description              : &description "PhD in Biostatistics"
 url                      : https://runqiuwang22.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RunqiuWang22/runqiuwang22.github.io"
@@ -22,11 +22,11 @@ repository               : "RunqiuWang22/runqiuwang22.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Runqiu Wang"
+  name             : "Runqiu (Rachel) Wang"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate in Biostatistics"
+  bio              : "PhD in Biostatistics"
   location         : "USA"
-  employer         : "UNMC"
+  employer         : "Harvard Medical School"
   uri              : # URL
   email            : "runqiurachelwang@gmail.com" 
 
