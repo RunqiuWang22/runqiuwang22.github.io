@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Welcome to my website!  
-I’m Runqiu (Rachel) Wang, Ph.D. in Biostatistics from the University of Nebraska Medical Center, and currently a Postdoctoral Research Fellow at Boston Children’s Hospital and Harvard Medical School. I am open to opportunities as a biostatistician or data scientist in the industry.
+I’m Runqiu (Rachel) Wang, Postdoctoral Research Fellow at Boston Children’s Hospital and Harvard Medical School. I received my Ph.D. in Biostatistics from the University of Nebraska Medical Center. I am open to opportunities as a biostatistician or data scientist in the industry.
 
 My research and professional experience sit at the intersection of statistical innovation and biomedical application. I specialize in **multiple testing**, **machine learning**, and **causal inference**, with recent contributions focused on **controlling the false discovery rate (FDR)** in **causal nonlinear models** and **multi-center variable selection**. My doctoral work has been applied in large-scale collaborative projects such as the **National COVID Cohort Collaborative (N3C)** and the **Alzheimer’s Disease Neuroimaging Initiative (ADNI)**.
 
